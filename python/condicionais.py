@@ -1,0 +1,1 @@
+#simples, composto, encadeado
